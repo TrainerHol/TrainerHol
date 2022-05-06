@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/trainerhol/trainerhol/master/banner.jpg" width="400px">
+<img align="right" src="https://raw.githubusercontent.com/trainerhol/trainerhol/master/banner.jpg" width="500px">
 
 ### [About]
 
