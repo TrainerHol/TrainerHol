@@ -1,6 +1,6 @@
-### [About]
-
 <img align="right" src="https://raw.githubusercontent.com/trainerhol/trainerhol/master/banner.jpg" width="400px">
+
+### [About]
 
 I'm a computer system engineer currently back in school to pursue game dev.
 My main focus is solidity smart contract development and combining it with game dev.
