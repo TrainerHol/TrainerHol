@@ -3,8 +3,10 @@
 I'm a computer system engineer currently back in school to pursue game dev.
 My main focus is solidity smart contract development and combining it with game dev.
 I also do digital paintings, voxels, pixel art, and in-game house/venue building and my artwork has been displayed in the [imNotArt](https://twitter.com/im_not_art) physical NFT gallery in Chicago.
-<img src="https://raw.githubusercontent.com/trainerhol/trainerhol/master/banner.jpg" width="600px" align="center">
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/trainerhol/trainerhol/master/banner.jpg" width="600px">
+</p>
 :art: You can find my paintings and artwork [here](https://opensea.io/collection/hol).
 
 **DAO's:** [SURF.Finance](https://twitter.com/surf_defi) - [Metaverse Builders DAO](https://twitter.com/mb__DAO) - [Developer DAO](https://twitter.com/developer_dao)
