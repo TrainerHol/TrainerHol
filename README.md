@@ -7,6 +7,7 @@ I also do digital paintings, voxels, pixel art, and in-game house/venue building
 <p align="center">
 <img src="https://raw.githubusercontent.com/trainerhol/trainerhol/master/banner.jpg" width="600px">
 </p>
+
 :art: **Artwork:** You can find my paintings and artwork [here](https://opensea.io/collection/hol)
 
 :busts_in_silhouette: **DAO's:** [SURF.Finance](https://twitter.com/surf_defi) - [Metaverse Builders DAO](https://twitter.com/mb__DAO) - [Developer DAO](https://twitter.com/developer_dao)
