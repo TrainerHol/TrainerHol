@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/trainerhol/trainerhol/master/banner.jpg" width="425px">
 
-I'm a computer system engineer currently back in school to pursue game dev.
+I'm a computer system engineer pursuing projects in game dev, tool dev, automations, and blockchain.
 My main focus is solidity smart contract development and combining it with game dev.
 I also do digital paintings, voxels, pixel art, and in-game house/venue building and my artwork has been displayed in the [imNotArt](https://twitter.com/im_not_art) physical NFT gallery in Chicago.
 
