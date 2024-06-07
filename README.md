@@ -16,4 +16,5 @@ I also do digital paintings, voxels, pixel art, and in-game house/venue building
 
 ![Metrics](https://metrics.lecoq.io/TrainerHol?template=classic&repositories.forks=true&isocalendar=1&languages=1&stars=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=America%2FLos_Angeles)
 
+```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/trainerhol/trainerhol/master/bg.gif');]{x0000}$}
